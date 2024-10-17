@@ -3,7 +3,7 @@ Version:	52983
 Release:	2
 Summary:	Access TeX systems' "magic numbers"
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/magicnum
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/magicnum
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/magicnum.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/magicnum.doc.r%{version}.tar.xz
